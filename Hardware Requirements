@@ -1,0 +1,20 @@
+5V Relay Module-
+A 5V Relay Module is used in this project which helps the microcontroller to operate high voltage AC loads like a light. 
+It consists of a 5V Electromechanical Relay, transistor, two resistors and two diodes.
+
+
+16x2 LCD Display-
+A simple LCD module will be employed to display textual information. It will be interfaced with the microcontroller and 
+will be powered with a 5V DC supply.
+
+C8051F340 Microcontroller-
+An 8 bit microcontroller manufacture by Silicon Labs. The MCU includes a powerful 8051 core with 50 MHz performance 
+along with 64 kB Flash, 4.25 kB RAM.
+
+IR Sensor Module-
+IR Sensor will objectively sense Mass. It senses presence of a physical body by either emitting or detecting infrared radiation. 
+We have used reflective type IR sensor modules in this project. It consists of 3 components: an IR Transmitter (IR LED), an IR 
+Receiver (like a Photo Diode) and a signal processing circuit (LM358 op-amp). These modules will draw 5V of power from the 
+DC battery and they will be connected to PORT2 pins i.e. P2.0 and P2.1 of the microcontroller. Sensor will sense presence of
+Mass and convey it to the microcontroller which in turn will initiate the lamp. The IR sensor is a digital sensor, thus it’s output 
+will either be 0 (object detected) or 1 (no detection in the proximity range)
