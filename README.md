@@ -8,7 +8,7 @@ and other components.
 
 When a person tries to enter the room, Sensor 1 detects the person first and then Sensor 2. 
 This action will indicate the 8051 Microcontroller that the person is entering the room. 
-Hence, the microcontroller will turn on the light and also increments the visitor counter to 1. 
-If there are more visitors, the microcontroller will keep the light turned on and increments the visitor counter accordingly.
+Hence, the microcontroller will turn on the light and also increment the visitor counter to 1. 
+If there are more visitors, the microcontroller will keep the light turned on and increment the visitor counter accordingly.
 
 Detailed description of H/W involved is attachhed along with the Assembly code in C.
