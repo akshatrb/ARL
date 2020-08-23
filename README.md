@@ -3,7 +3,7 @@
  ARL stands for Automatic Room Lighting.
  
 The aim of this project is to automatically turn on or off the lights/appliances in a room 
-on detecting any human movement. This project will be implemented using the 8051 Microcontroller, Infrared (IR) sensors
+on detecting any human movement. This project is implemented using the 8051 Microcontroller, Infrared (IR) sensors
 and other components.
 
 When a person tries to enter the room, Sensor 1 detects the person first and then Sensor 2. 
