@@ -1,5 +1,4 @@
-# ARL
- Room electricity automation using C8051F340 MC
+# ARL - Automation using 8051 MC
  ARL stands for Automatic Room Lighting.
  
 The aim of this project is to automatically turn on or off the lights/appliances in a room 
@@ -12,3 +11,5 @@ Hence, the microcontroller will turn on the light and also increment the visitor
 If there are more visitors, the microcontroller will keep the light turned on and increment the visitor counter accordingly.
 
 Detailed description of H/W involved is attachhed along with the Assembly code in C.
+
+Feel free to contact if you've any doubts on the codebase or logic and drop a star if the repo helped you!
